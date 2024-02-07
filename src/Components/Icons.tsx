@@ -16,7 +16,7 @@ const Icons = ({name}: IconsProp) => {
       break;
 
     default:
-      return <Icon name="pencil" size={38} color={'#0D0D0D'} />;
+      return <Icon name="pencil" size={38} color={'#94a3b8'} />;
       break;
   }
 };
